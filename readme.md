@@ -1,5 +1,8 @@
 ## 注意！需要最新版chrome浏览器以支撑Puppeteer
 
+**接码平台地址**: `http://h5.yezi86.com:90`
+
+
 ### 1. 安装依赖
 
 ```bash
